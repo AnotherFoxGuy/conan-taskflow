@@ -1,0 +1,6 @@
+
+*.pyc
+test_package/build
+
+
+\.idea/
